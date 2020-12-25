@@ -1,3 +1,4 @@
+aaaa
 jshop是一个微服务架构的网上商城，前台采用vue，后台用Springcloud相关技术。
 基于zookeeper和dubbo进行远程RPC调用，使用redis来缓存热点数据。
 用到了kafka做消息队列来解决分布式事务问题。
