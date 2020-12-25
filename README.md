@@ -1,5 +1,28 @@
-aaaa
-jshop是一个微服务架构的网上商城，前台采用vue，后台用Springcloud相关技术。
-基于zookeeper和dubbo进行远程RPC调用，使用redis来缓存热点数据。
-用到了kafka做消息队列来解决分布式事务问题。
-分布式事务锁使用zookeeper进行解决。
+# 项目简介
+jshop是一个微服务架构的网上商城，可以用来整合练习springboot、zookeeper、dubbo、redis、消息队列等技术。
+
+## 应用架构图
+
+
+## 后端技术
+后端主要架构为springboot+dubbo+mybatis
+* Zookeeper 
+* Dubbo
+* Redis
+* RocketMQ
+* Mysql
+* Druid
+* Docker
+
+## 前端技术
+* Vue
+* Element-UI
+* es6
+* axios
+
+## 模块说明
+
+## 部署步骤
+
+
+
